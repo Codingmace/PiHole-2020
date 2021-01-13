@@ -1,0 +1,1476 @@
+! Title: Anti-AutoTranslation-List
+! Expires: 2 days
+1r1g.com
+365airsoft.com
+3d-freedom.ru
+4answered.com
+answer-id.com
+answeright.com
+askdev.info
+askdev.io
+askdev.ru
+asknix.com
+ask-ubuntu.ru
+askubuntu.ru
+askvoprosy.com
+bestecode.com
+bildiredi.com
+bilee.com
+bonprog.com
+brokencontrollers.com
+chubuntu.com
+ciupacabra.com
+code-adviser.com
+codeday.me
+code-examples.net
+code.i-harness.com
+codeindex.ru
+codengineering.ru
+coderoad.ru
+coderquestion.ru
+coredump.biz
+coredump.guru
+coredump.ist
+coredump.one
+coredump.pt
+coredump.ro
+coredump.su
+coredump.tech
+coredump.uno
+craftjs.com
+devask.cz
+devask.gr
+devask.in
+devask.nl
+develop-bugs.com
+developreference.com
+de-vraag.com
+domandesunix.com
+donolik.com
+e-learn.cn
+exceptionshub.com
+ffff65535.com
+fliplinux.com
+fooobar.com
+frageit.de
+husl.ru
+icode9.com
+i-harness.com
+intellipaat.com
+issue.life
+itdaan.com
+itkerdes.com
+itproblemy.pl
+itranslater.com
+it-swarm.asia
+it-swarm.dev
+it-swarm.net
+it-swarm.xyz
+ityouth.ru
+javahow.ru
+kompsekret.ru
+kotaeta.com
+myht.ru
+ohandroid.com
+oipapio.com
+onstartup.ru
+overcoder.net
+poweruser.guru
+profikoder.com
+progaide.com
+progexact.com
+progi.pro
+programmerz.ru
+programqa.com
+proubuntu.ru
+pytannie.com
+qacode.ru
+qaes.website
+qa-help.ru
+qarchive.ru
+qaru.site
+qarus.ru
+qastack.cn
+qastack.co.in
+qastack.com.br
+qastack.com.de
+qastack.com.ua
+qastack.fr
+qastack.id
+qastack.info.tr
+qastack.in.th
+qastack.it
+qastack.jp
+qastack.kr
+qastack.lk
+qastack.mx
+qastack.net.bd
+qa-stack.pl
+qastack.ru
+qastack.vn
+qna.one
+quabr.com
+questions.pliz.biz
+quick-geek.github.io
+qwe.wiki
+refaq.ru
+rstopup.com
+ruphp.com
+rupython.com
+showtop.info
+sobrelinux.info
+soinside.com
+sozdizimi.com
+sprosi.pro
+src-bin.com
+stackanswers.net
+stackoom.com
+stackovernet.com
+stackoverrun.com
+stackru.com
+stackz.ru
+switch-case.com
+switch-case.ru
+thinbug.com
+ubuntugeeks.com
+ubuntuplace.info
+ubuntuweb.info
+usersuper.ru
+uwenku.com
+vike.io
+voidcc.com
+vpros.ru
+v-resheno.ru
+web-answers.ru
+while-do.com
+wikiroot.ru
+xbuba.com
+xszz.org
+zapytay.com
+
+
+# CSS Rules
+
+google.*##.rc:has(a[href*="1r1g.com/"])
+google.*##.nrgt:has(a[href*="1r1g.com/"])
+google.*##.xpd.uUPGi:has(a[href*="1r1g.com/"])
+duckduckgo.com##.result[data-domain$="1r1g.com"]
+duckduckgo.com##.web-result:has(a[href*="1r1g.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="1r1g.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="1r1g.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="1r1g.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="1r1g.com/"])
+google.*##.rc:has(a[href*="365airsoft.com/"])
+google.*##.nrgt:has(a[href*="365airsoft.com/"])
+google.*##.xpd.uUPGi:has(a[href*="365airsoft.com/"])
+duckduckgo.com##.result[data-domain$="365airsoft.com"]
+duckduckgo.com##.web-result:has(a[href*="365airsoft.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="365airsoft.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="365airsoft.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="365airsoft.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="365airsoft.com/"])
+google.*##.rc:has(a[href*="3d-freedom.ru/"])
+google.*##.nrgt:has(a[href*="3d-freedom.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="3d-freedom.ru/"])
+duckduckgo.com##.result[data-domain$="3d-freedom.ru"]
+duckduckgo.com##.web-result:has(a[href*="3d-freedom.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="3d-freedom.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="3d-freedom.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="3d-freedom.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="3d-freedom.ru/"])
+google.*##.rc:has(a[href*="4answered.com/"])
+google.*##.nrgt:has(a[href*="4answered.com/"])
+google.*##.xpd.uUPGi:has(a[href*="4answered.com/"])
+duckduckgo.com##.result[data-domain$="4answered.com"]
+duckduckgo.com##.web-result:has(a[href*="4answered.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="4answered.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="4answered.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="4answered.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="4answered.com/"])
+google.*##.rc:has(a[href*="answer-id.com/"])
+google.*##.nrgt:has(a[href*="answer-id.com/"])
+google.*##.xpd.uUPGi:has(a[href*="answer-id.com/"])
+duckduckgo.com##.result[data-domain$="answer-id.com"]
+duckduckgo.com##.web-result:has(a[href*="answer-id.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="answer-id.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="answer-id.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="answer-id.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="answer-id.com/"])
+google.*##.rc:has(a[href*="answeright.com/"])
+google.*##.nrgt:has(a[href*="answeright.com/"])
+google.*##.xpd.uUPGi:has(a[href*="answeright.com/"])
+duckduckgo.com##.result[data-domain$="answeright.com"]
+duckduckgo.com##.web-result:has(a[href*="answeright.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="answeright.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="answeright.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="answeright.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="answeright.com/"])
+google.*##.rc:has(a[href*="askdev.info/"])
+google.*##.nrgt:has(a[href*="askdev.info/"])
+google.*##.xpd.uUPGi:has(a[href*="askdev.info/"])
+duckduckgo.com##.result[data-domain$="askdev.info"]
+duckduckgo.com##.web-result:has(a[href*="askdev.info/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askdev.info/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askdev.info/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askdev.info/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="askdev.info/"])
+google.*##.rc:has(a[href*="askdev.io/"])
+google.*##.nrgt:has(a[href*="askdev.io/"])
+google.*##.xpd.uUPGi:has(a[href*="askdev.io/"])
+duckduckgo.com##.result[data-domain$="askdev.io"]
+duckduckgo.com##.web-result:has(a[href*="askdev.io/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askdev.io/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askdev.io/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askdev.io/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="askdev.io/"])
+google.*##.rc:has(a[href*="askdev.ru/"])
+google.*##.nrgt:has(a[href*="askdev.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="askdev.ru/"])
+duckduckgo.com##.result[data-domain$="askdev.ru"]
+duckduckgo.com##.web-result:has(a[href*="askdev.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askdev.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askdev.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askdev.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="askdev.ru/"])
+google.*##.rc:has(a[href*="asknix.com/"])
+google.*##.nrgt:has(a[href*="asknix.com/"])
+google.*##.xpd.uUPGi:has(a[href*="asknix.com/"])
+duckduckgo.com##.result[data-domain$="asknix.com"]
+duckduckgo.com##.web-result:has(a[href*="asknix.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="asknix.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="asknix.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="asknix.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="asknix.com/"])
+google.*##.rc:has(a[href*="ask-ubuntu.ru/"])
+google.*##.nrgt:has(a[href*="ask-ubuntu.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="ask-ubuntu.ru/"])
+duckduckgo.com##.result[data-domain$="ask-ubuntu.ru"]
+duckduckgo.com##.web-result:has(a[href*="ask-ubuntu.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ask-ubuntu.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ask-ubuntu.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ask-ubuntu.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ask-ubuntu.ru/"])
+google.*##.rc:has(a[href*="askubuntu.ru/"])
+google.*##.nrgt:has(a[href*="askubuntu.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="askubuntu.ru/"])
+duckduckgo.com##.result[data-domain$="askubuntu.ru"]
+duckduckgo.com##.web-result:has(a[href*="askubuntu.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askubuntu.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askubuntu.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askubuntu.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="askubuntu.ru/"])
+google.*##.rc:has(a[href*="askvoprosy.com/"])
+google.*##.nrgt:has(a[href*="askvoprosy.com/"])
+google.*##.xpd.uUPGi:has(a[href*="askvoprosy.com/"])
+duckduckgo.com##.result[data-domain$="askvoprosy.com"]
+duckduckgo.com##.web-result:has(a[href*="askvoprosy.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askvoprosy.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askvoprosy.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="askvoprosy.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="askvoprosy.com/"])
+google.*##.rc:has(a[href*="bestecode.com/"])
+google.*##.nrgt:has(a[href*="bestecode.com/"])
+google.*##.xpd.uUPGi:has(a[href*="bestecode.com/"])
+duckduckgo.com##.result[data-domain$="bestecode.com"]
+duckduckgo.com##.web-result:has(a[href*="bestecode.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bestecode.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bestecode.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bestecode.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="bestecode.com/"])
+google.*##.rc:has(a[href*="bildiredi.com/"])
+google.*##.nrgt:has(a[href*="bildiredi.com/"])
+google.*##.xpd.uUPGi:has(a[href*="bildiredi.com/"])
+duckduckgo.com##.result[data-domain$="bildiredi.com"]
+duckduckgo.com##.web-result:has(a[href*="bildiredi.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bildiredi.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bildiredi.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bildiredi.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="bildiredi.com/"])
+google.*##.rc:has(a[href*="bilee.com/"])
+google.*##.nrgt:has(a[href*="bilee.com/"])
+google.*##.xpd.uUPGi:has(a[href*="bilee.com/"])
+duckduckgo.com##.result[data-domain$="bilee.com"]
+duckduckgo.com##.web-result:has(a[href*="bilee.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bilee.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bilee.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bilee.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="bilee.com/"])
+google.*##.rc:has(a[href*="bonprog.com/"])
+google.*##.nrgt:has(a[href*="bonprog.com/"])
+google.*##.xpd.uUPGi:has(a[href*="bonprog.com/"])
+duckduckgo.com##.result[data-domain$="bonprog.com"]
+duckduckgo.com##.web-result:has(a[href*="bonprog.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bonprog.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bonprog.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="bonprog.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="bonprog.com/"])
+google.*##.rc:has(a[href*="brokencontrollers.com/"])
+google.*##.nrgt:has(a[href*="brokencontrollers.com/"])
+google.*##.xpd.uUPGi:has(a[href*="brokencontrollers.com/"])
+duckduckgo.com##.result[data-domain$="brokencontrollers.com"]
+duckduckgo.com##.web-result:has(a[href*="brokencontrollers.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="brokencontrollers.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="brokencontrollers.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="brokencontrollers.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="brokencontrollers.com/"])
+google.*##.rc:has(a[href*="chubuntu.com/"])
+google.*##.nrgt:has(a[href*="chubuntu.com/"])
+google.*##.xpd.uUPGi:has(a[href*="chubuntu.com/"])
+duckduckgo.com##.result[data-domain$="chubuntu.com"]
+duckduckgo.com##.web-result:has(a[href*="chubuntu.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="chubuntu.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="chubuntu.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="chubuntu.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="chubuntu.com/"])
+google.*##.rc:has(a[href*="ciupacabra.com/"])
+google.*##.nrgt:has(a[href*="ciupacabra.com/"])
+google.*##.xpd.uUPGi:has(a[href*="ciupacabra.com/"])
+duckduckgo.com##.result[data-domain$="ciupacabra.com"]
+duckduckgo.com##.web-result:has(a[href*="ciupacabra.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ciupacabra.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ciupacabra.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ciupacabra.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ciupacabra.com/"])
+google.*##.rc:has(a[href*="code-adviser.com/"])
+google.*##.nrgt:has(a[href*="code-adviser.com/"])
+google.*##.xpd.uUPGi:has(a[href*="code-adviser.com/"])
+duckduckgo.com##.result[data-domain$="code-adviser.com"]
+duckduckgo.com##.web-result:has(a[href*="code-adviser.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="code-adviser.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="code-adviser.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="code-adviser.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="code-adviser.com/"])
+google.*##.rc:has(a[href*="codeday.me/"])
+google.*##.nrgt:has(a[href*="codeday.me/"])
+google.*##.xpd.uUPGi:has(a[href*="codeday.me/"])
+duckduckgo.com##.result[data-domain$="codeday.me"]
+duckduckgo.com##.web-result:has(a[href*="codeday.me/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="codeday.me/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="codeday.me/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="codeday.me/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="codeday.me/"])
+google.*##.rc:has(a[href*="code-examples.net/"])
+google.*##.nrgt:has(a[href*="code-examples.net/"])
+google.*##.xpd.uUPGi:has(a[href*="code-examples.net/"])
+duckduckgo.com##.result[data-domain$="code-examples.net"]
+duckduckgo.com##.web-result:has(a[href*="code-examples.net/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="code-examples.net/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="code-examples.net/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="code-examples.net/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="code-examples.net/"])
+google.*##.rc:has(a[href*="code.i-harness.com/"])
+google.*##.nrgt:has(a[href*="code.i-harness.com/"])
+google.*##.xpd.uUPGi:has(a[href*="code.i-harness.com/"])
+duckduckgo.com##.result[data-domain$="code.i-harness.com"]
+duckduckgo.com##.web-result:has(a[href*="code.i-harness.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="code.i-harness.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="code.i-harness.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="code.i-harness.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="code.i-harness.com/"])
+google.*##.rc:has(a[href*="codeindex.ru/"])
+google.*##.nrgt:has(a[href*="codeindex.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="codeindex.ru/"])
+duckduckgo.com##.result[data-domain$="codeindex.ru"]
+duckduckgo.com##.web-result:has(a[href*="codeindex.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="codeindex.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="codeindex.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="codeindex.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="codeindex.ru/"])
+google.*##.rc:has(a[href*="codengineering.ru/"])
+google.*##.nrgt:has(a[href*="codengineering.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="codengineering.ru/"])
+duckduckgo.com##.result[data-domain$="codengineering.ru"]
+duckduckgo.com##.web-result:has(a[href*="codengineering.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="codengineering.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="codengineering.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="codengineering.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="codengineering.ru/"])
+google.*##.rc:has(a[href*="coderoad.ru/"])
+google.*##.nrgt:has(a[href*="coderoad.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="coderoad.ru/"])
+duckduckgo.com##.result[data-domain$="coderoad.ru"]
+duckduckgo.com##.web-result:has(a[href*="coderoad.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coderoad.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coderoad.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coderoad.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coderoad.ru/"])
+google.*##.rc:has(a[href*="coderquestion.ru/"])
+google.*##.nrgt:has(a[href*="coderquestion.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="coderquestion.ru/"])
+duckduckgo.com##.result[data-domain$="coderquestion.ru"]
+duckduckgo.com##.web-result:has(a[href*="coderquestion.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coderquestion.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coderquestion.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coderquestion.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coderquestion.ru/"])
+google.*##.rc:has(a[href*="coredump.biz/"])
+google.*##.nrgt:has(a[href*="coredump.biz/"])
+google.*##.xpd.uUPGi:has(a[href*="coredump.biz/"])
+duckduckgo.com##.result[data-domain$="coredump.biz"]
+duckduckgo.com##.web-result:has(a[href*="coredump.biz/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.biz/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.biz/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.biz/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.biz/"])
+google.*##.rc:has(a[href*="coredump.guru/"])
+google.*##.nrgt:has(a[href*="coredump.guru/"])
+google.*##.xpd.uUPGi:has(a[href*="coredump.guru/"])
+duckduckgo.com##.result[data-domain$="coredump.guru"]
+duckduckgo.com##.web-result:has(a[href*="coredump.guru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.guru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.guru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.guru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.guru/"])
+google.*##.rc:has(a[href*="coredump.ist/"])
+google.*##.nrgt:has(a[href*="coredump.ist/"])
+google.*##.xpd.uUPGi:has(a[href*="coredump.ist/"])
+duckduckgo.com##.result[data-domain$="coredump.ist"]
+duckduckgo.com##.web-result:has(a[href*="coredump.ist/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.ist/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.ist/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.ist/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.ist/"])
+google.*##.rc:has(a[href*="coredump.one/"])
+google.*##.nrgt:has(a[href*="coredump.one/"])
+google.*##.xpd.uUPGi:has(a[href*="coredump.one/"])
+duckduckgo.com##.result[data-domain$="coredump.one"]
+duckduckgo.com##.web-result:has(a[href*="coredump.one/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.one/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.one/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.one/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.one/"])
+google.*##.rc:has(a[href*="coredump.pt/"])
+google.*##.nrgt:has(a[href*="coredump.pt/"])
+google.*##.xpd.uUPGi:has(a[href*="coredump.pt/"])
+duckduckgo.com##.result[data-domain$="coredump.pt"]
+duckduckgo.com##.web-result:has(a[href*="coredump.pt/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.pt/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.pt/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.pt/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.pt/"])
+google.*##.rc:has(a[href*="coredump.ro/"])
+google.*##.nrgt:has(a[href*="coredump.ro/"])
+google.*##.xpd.uUPGi:has(a[href*="coredump.ro/"])
+duckduckgo.com##.result[data-domain$="coredump.ro"]
+duckduckgo.com##.web-result:has(a[href*="coredump.ro/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.ro/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.ro/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.ro/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.ro/"])
+google.*##.rc:has(a[href*="coredump.su/"])
+google.*##.nrgt:has(a[href*="coredump.su/"])
+google.*##.xpd.uUPGi:has(a[href*="coredump.su/"])
+duckduckgo.com##.result[data-domain$="coredump.su"]
+duckduckgo.com##.web-result:has(a[href*="coredump.su/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.su/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.su/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.su/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.su/"])
+google.*##.rc:has(a[href*="coredump.tech/"])
+google.*##.nrgt:has(a[href*="coredump.tech/"])
+google.*##.xpd.uUPGi:has(a[href*="coredump.tech/"])
+duckduckgo.com##.result[data-domain$="coredump.tech"]
+duckduckgo.com##.web-result:has(a[href*="coredump.tech/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.tech/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.tech/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.tech/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.tech/"])
+google.*##.rc:has(a[href*="coredump.uno/"])
+google.*##.nrgt:has(a[href*="coredump.uno/"])
+google.*##.xpd.uUPGi:has(a[href*="coredump.uno/"])
+duckduckgo.com##.result[data-domain$="coredump.uno"]
+duckduckgo.com##.web-result:has(a[href*="coredump.uno/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.uno/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.uno/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="coredump.uno/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="coredump.uno/"])
+google.*##.rc:has(a[href*="craftjs.com/"])
+google.*##.nrgt:has(a[href*="craftjs.com/"])
+google.*##.xpd.uUPGi:has(a[href*="craftjs.com/"])
+duckduckgo.com##.result[data-domain$="craftjs.com"]
+duckduckgo.com##.web-result:has(a[href*="craftjs.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="craftjs.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="craftjs.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="craftjs.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="craftjs.com/"])
+google.*##.rc:has(a[href*="devask.cz/"])
+google.*##.nrgt:has(a[href*="devask.cz/"])
+google.*##.xpd.uUPGi:has(a[href*="devask.cz/"])
+duckduckgo.com##.result[data-domain$="devask.cz"]
+duckduckgo.com##.web-result:has(a[href*="devask.cz/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.cz/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.cz/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.cz/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="devask.cz/"])
+google.*##.rc:has(a[href*="devask.gr/"])
+google.*##.nrgt:has(a[href*="devask.gr/"])
+google.*##.xpd.uUPGi:has(a[href*="devask.gr/"])
+duckduckgo.com##.result[data-domain$="devask.gr"]
+duckduckgo.com##.web-result:has(a[href*="devask.gr/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.gr/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.gr/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.gr/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="devask.gr/"])
+google.*##.rc:has(a[href*="devask.in/"])
+google.*##.nrgt:has(a[href*="devask.in/"])
+google.*##.xpd.uUPGi:has(a[href*="devask.in/"])
+duckduckgo.com##.result[data-domain$="devask.in"]
+duckduckgo.com##.web-result:has(a[href*="devask.in/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.in/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.in/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.in/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="devask.in/"])
+google.*##.rc:has(a[href*="devask.nl/"])
+google.*##.nrgt:has(a[href*="devask.nl/"])
+google.*##.xpd.uUPGi:has(a[href*="devask.nl/"])
+duckduckgo.com##.result[data-domain$="devask.nl"]
+duckduckgo.com##.web-result:has(a[href*="devask.nl/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.nl/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.nl/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="devask.nl/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="devask.nl/"])
+google.*##.rc:has(a[href*="develop-bugs.com/"])
+google.*##.nrgt:has(a[href*="develop-bugs.com/"])
+google.*##.xpd.uUPGi:has(a[href*="develop-bugs.com/"])
+duckduckgo.com##.result[data-domain$="develop-bugs.com"]
+duckduckgo.com##.web-result:has(a[href*="develop-bugs.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="develop-bugs.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="develop-bugs.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="develop-bugs.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="develop-bugs.com/"])
+google.*##.rc:has(a[href*="developreference.com/"])
+google.*##.nrgt:has(a[href*="developreference.com/"])
+google.*##.xpd.uUPGi:has(a[href*="developreference.com/"])
+duckduckgo.com##.result[data-domain$="developreference.com"]
+duckduckgo.com##.web-result:has(a[href*="developreference.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="developreference.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="developreference.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="developreference.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="developreference.com/"])
+google.*##.rc:has(a[href*="de-vraag.com/"])
+google.*##.nrgt:has(a[href*="de-vraag.com/"])
+google.*##.xpd.uUPGi:has(a[href*="de-vraag.com/"])
+duckduckgo.com##.result[data-domain$="de-vraag.com"]
+duckduckgo.com##.web-result:has(a[href*="de-vraag.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="de-vraag.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="de-vraag.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="de-vraag.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="de-vraag.com/"])
+google.*##.rc:has(a[href*="domandesunix.com/"])
+google.*##.nrgt:has(a[href*="domandesunix.com/"])
+google.*##.xpd.uUPGi:has(a[href*="domandesunix.com/"])
+duckduckgo.com##.result[data-domain$="domandesunix.com"]
+duckduckgo.com##.web-result:has(a[href*="domandesunix.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="domandesunix.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="domandesunix.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="domandesunix.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="domandesunix.com/"])
+google.*##.rc:has(a[href*="donolik.com/"])
+google.*##.nrgt:has(a[href*="donolik.com/"])
+google.*##.xpd.uUPGi:has(a[href*="donolik.com/"])
+duckduckgo.com##.result[data-domain$="donolik.com"]
+duckduckgo.com##.web-result:has(a[href*="donolik.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="donolik.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="donolik.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="donolik.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="donolik.com/"])
+google.*##.rc:has(a[href*="e-learn.cn/"])
+google.*##.nrgt:has(a[href*="e-learn.cn/"])
+google.*##.xpd.uUPGi:has(a[href*="e-learn.cn/"])
+duckduckgo.com##.result[data-domain$="e-learn.cn"]
+duckduckgo.com##.web-result:has(a[href*="e-learn.cn/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="e-learn.cn/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="e-learn.cn/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="e-learn.cn/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="e-learn.cn/"])
+google.*##.rc:has(a[href*="exceptionshub.com/"])
+google.*##.nrgt:has(a[href*="exceptionshub.com/"])
+google.*##.xpd.uUPGi:has(a[href*="exceptionshub.com/"])
+duckduckgo.com##.result[data-domain$="exceptionshub.com"]
+duckduckgo.com##.web-result:has(a[href*="exceptionshub.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="exceptionshub.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="exceptionshub.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="exceptionshub.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="exceptionshub.com/"])
+google.*##.rc:has(a[href*="ffff65535.com/"])
+google.*##.nrgt:has(a[href*="ffff65535.com/"])
+google.*##.xpd.uUPGi:has(a[href*="ffff65535.com/"])
+duckduckgo.com##.result[data-domain$="ffff65535.com"]
+duckduckgo.com##.web-result:has(a[href*="ffff65535.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ffff65535.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ffff65535.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ffff65535.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ffff65535.com/"])
+google.*##.rc:has(a[href*="fliplinux.com/"])
+google.*##.nrgt:has(a[href*="fliplinux.com/"])
+google.*##.xpd.uUPGi:has(a[href*="fliplinux.com/"])
+duckduckgo.com##.result[data-domain$="fliplinux.com"]
+duckduckgo.com##.web-result:has(a[href*="fliplinux.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="fliplinux.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="fliplinux.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="fliplinux.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="fliplinux.com/"])
+google.*##.rc:has(a[href*="fooobar.com/"])
+google.*##.nrgt:has(a[href*="fooobar.com/"])
+google.*##.xpd.uUPGi:has(a[href*="fooobar.com/"])
+duckduckgo.com##.result[data-domain$="fooobar.com"]
+duckduckgo.com##.web-result:has(a[href*="fooobar.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="fooobar.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="fooobar.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="fooobar.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="fooobar.com/"])
+google.*##.rc:has(a[href*="frageit.de/"])
+google.*##.nrgt:has(a[href*="frageit.de/"])
+google.*##.xpd.uUPGi:has(a[href*="frageit.de/"])
+duckduckgo.com##.result[data-domain$="frageit.de"]
+duckduckgo.com##.web-result:has(a[href*="frageit.de/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="frageit.de/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="frageit.de/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="frageit.de/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="frageit.de/"])
+google.*##.rc:has(a[href*="husl.ru/"])
+google.*##.nrgt:has(a[href*="husl.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="husl.ru/"])
+duckduckgo.com##.result[data-domain$="husl.ru"]
+duckduckgo.com##.web-result:has(a[href*="husl.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="husl.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="husl.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="husl.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="husl.ru/"])
+google.*##.rc:has(a[href*="icode9.com/"])
+google.*##.nrgt:has(a[href*="icode9.com/"])
+google.*##.xpd.uUPGi:has(a[href*="icode9.com/"])
+duckduckgo.com##.result[data-domain$="icode9.com"]
+duckduckgo.com##.web-result:has(a[href*="icode9.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="icode9.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="icode9.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="icode9.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="icode9.com/"])
+google.*##.rc:has(a[href*="i-harness.com/"])
+google.*##.nrgt:has(a[href*="i-harness.com/"])
+google.*##.xpd.uUPGi:has(a[href*="i-harness.com/"])
+duckduckgo.com##.result[data-domain$="i-harness.com"]
+duckduckgo.com##.web-result:has(a[href*="i-harness.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="i-harness.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="i-harness.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="i-harness.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="i-harness.com/"])
+google.*##.rc:has(a[href*="intellipaat.com/"])
+google.*##.nrgt:has(a[href*="intellipaat.com/"])
+google.*##.xpd.uUPGi:has(a[href*="intellipaat.com/"])
+duckduckgo.com##.result[data-domain$="intellipaat.com"]
+duckduckgo.com##.web-result:has(a[href*="intellipaat.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="intellipaat.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="intellipaat.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="intellipaat.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="intellipaat.com/"])
+google.*##.rc:has(a[href*="issue.life/"])
+google.*##.nrgt:has(a[href*="issue.life/"])
+google.*##.xpd.uUPGi:has(a[href*="issue.life/"])
+duckduckgo.com##.result[data-domain$="issue.life"]
+duckduckgo.com##.web-result:has(a[href*="issue.life/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="issue.life/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="issue.life/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="issue.life/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="issue.life/"])
+google.*##.rc:has(a[href*="itdaan.com/"])
+google.*##.nrgt:has(a[href*="itdaan.com/"])
+google.*##.xpd.uUPGi:has(a[href*="itdaan.com/"])
+duckduckgo.com##.result[data-domain$="itdaan.com"]
+duckduckgo.com##.web-result:has(a[href*="itdaan.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itdaan.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itdaan.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itdaan.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="itdaan.com/"])
+google.*##.rc:has(a[href*="itkerdes.com/"])
+google.*##.nrgt:has(a[href*="itkerdes.com/"])
+google.*##.xpd.uUPGi:has(a[href*="itkerdes.com/"])
+duckduckgo.com##.result[data-domain$="itkerdes.com"]
+duckduckgo.com##.web-result:has(a[href*="itkerdes.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itkerdes.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itkerdes.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itkerdes.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="itkerdes.com/"])
+google.*##.rc:has(a[href*="itproblemy.pl/"])
+google.*##.nrgt:has(a[href*="itproblemy.pl/"])
+google.*##.xpd.uUPGi:has(a[href*="itproblemy.pl/"])
+duckduckgo.com##.result[data-domain$="itproblemy.pl"]
+duckduckgo.com##.web-result:has(a[href*="itproblemy.pl/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itproblemy.pl/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itproblemy.pl/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itproblemy.pl/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="itproblemy.pl/"])
+google.*##.rc:has(a[href*="itranslater.com/"])
+google.*##.nrgt:has(a[href*="itranslater.com/"])
+google.*##.xpd.uUPGi:has(a[href*="itranslater.com/"])
+duckduckgo.com##.result[data-domain$="itranslater.com"]
+duckduckgo.com##.web-result:has(a[href*="itranslater.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itranslater.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itranslater.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="itranslater.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="itranslater.com/"])
+google.*##.rc:has(a[href*="it-swarm.asia/"])
+google.*##.nrgt:has(a[href*="it-swarm.asia/"])
+google.*##.xpd.uUPGi:has(a[href*="it-swarm.asia/"])
+duckduckgo.com##.result[data-domain$="it-swarm.asia"]
+duckduckgo.com##.web-result:has(a[href*="it-swarm.asia/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.asia/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.asia/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.asia/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="it-swarm.asia/"])
+google.*##.rc:has(a[href*="it-swarm.dev/"])
+google.*##.nrgt:has(a[href*="it-swarm.dev/"])
+google.*##.xpd.uUPGi:has(a[href*="it-swarm.dev/"])
+duckduckgo.com##.result[data-domain$="it-swarm.dev"]
+duckduckgo.com##.web-result:has(a[href*="it-swarm.dev/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.dev/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.dev/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.dev/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="it-swarm.dev/"])
+google.*##.rc:has(a[href*="it-swarm.net/"])
+google.*##.nrgt:has(a[href*="it-swarm.net/"])
+google.*##.xpd.uUPGi:has(a[href*="it-swarm.net/"])
+duckduckgo.com##.result[data-domain$="it-swarm.net"]
+duckduckgo.com##.web-result:has(a[href*="it-swarm.net/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.net/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.net/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.net/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="it-swarm.net/"])
+google.*##.rc:has(a[href*="it-swarm.xyz/"])
+google.*##.nrgt:has(a[href*="it-swarm.xyz/"])
+google.*##.xpd.uUPGi:has(a[href*="it-swarm.xyz/"])
+duckduckgo.com##.result[data-domain$="it-swarm.xyz"]
+duckduckgo.com##.web-result:has(a[href*="it-swarm.xyz/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.xyz/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.xyz/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="it-swarm.xyz/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="it-swarm.xyz/"])
+google.*##.rc:has(a[href*="ityouth.ru/"])
+google.*##.nrgt:has(a[href*="ityouth.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="ityouth.ru/"])
+duckduckgo.com##.result[data-domain$="ityouth.ru"]
+duckduckgo.com##.web-result:has(a[href*="ityouth.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ityouth.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ityouth.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ityouth.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ityouth.ru/"])
+google.*##.rc:has(a[href*="javahow.ru/"])
+google.*##.nrgt:has(a[href*="javahow.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="javahow.ru/"])
+duckduckgo.com##.result[data-domain$="javahow.ru"]
+duckduckgo.com##.web-result:has(a[href*="javahow.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="javahow.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="javahow.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="javahow.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="javahow.ru/"])
+google.*##.rc:has(a[href*="kompsekret.ru/"])
+google.*##.nrgt:has(a[href*="kompsekret.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="kompsekret.ru/"])
+duckduckgo.com##.result[data-domain$="kompsekret.ru"]
+duckduckgo.com##.web-result:has(a[href*="kompsekret.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="kompsekret.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="kompsekret.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="kompsekret.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="kompsekret.ru/"])
+google.*##.rc:has(a[href*="kotaeta.com/"])
+google.*##.nrgt:has(a[href*="kotaeta.com/"])
+google.*##.xpd.uUPGi:has(a[href*="kotaeta.com/"])
+duckduckgo.com##.result[data-domain$="kotaeta.com"]
+duckduckgo.com##.web-result:has(a[href*="kotaeta.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="kotaeta.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="kotaeta.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="kotaeta.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="kotaeta.com/"])
+google.*##.rc:has(a[href*="myht.ru/"])
+google.*##.nrgt:has(a[href*="myht.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="myht.ru/"])
+duckduckgo.com##.result[data-domain$="myht.ru"]
+duckduckgo.com##.web-result:has(a[href*="myht.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="myht.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="myht.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="myht.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="myht.ru/"])
+google.*##.rc:has(a[href*="ohandroid.com/"])
+google.*##.nrgt:has(a[href*="ohandroid.com/"])
+google.*##.xpd.uUPGi:has(a[href*="ohandroid.com/"])
+duckduckgo.com##.result[data-domain$="ohandroid.com"]
+duckduckgo.com##.web-result:has(a[href*="ohandroid.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ohandroid.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ohandroid.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ohandroid.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ohandroid.com/"])
+google.*##.rc:has(a[href*="oipapio.com/"])
+google.*##.nrgt:has(a[href*="oipapio.com/"])
+google.*##.xpd.uUPGi:has(a[href*="oipapio.com/"])
+duckduckgo.com##.result[data-domain$="oipapio.com"]
+duckduckgo.com##.web-result:has(a[href*="oipapio.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="oipapio.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="oipapio.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="oipapio.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="oipapio.com/"])
+google.*##.rc:has(a[href*="onstartup.ru/"])
+google.*##.nrgt:has(a[href*="onstartup.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="onstartup.ru/"])
+duckduckgo.com##.result[data-domain$="onstartup.ru"]
+duckduckgo.com##.web-result:has(a[href*="onstartup.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="onstartup.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="onstartup.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="onstartup.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="onstartup.ru/"])
+google.*##.rc:has(a[href*="overcoder.net/"])
+google.*##.nrgt:has(a[href*="overcoder.net/"])
+google.*##.xpd.uUPGi:has(a[href*="overcoder.net/"])
+duckduckgo.com##.result[data-domain$="overcoder.net"]
+duckduckgo.com##.web-result:has(a[href*="overcoder.net/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="overcoder.net/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="overcoder.net/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="overcoder.net/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="overcoder.net/"])
+google.*##.rc:has(a[href*="poweruser.guru/"])
+google.*##.nrgt:has(a[href*="poweruser.guru/"])
+google.*##.xpd.uUPGi:has(a[href*="poweruser.guru/"])
+duckduckgo.com##.result[data-domain$="poweruser.guru"]
+duckduckgo.com##.web-result:has(a[href*="poweruser.guru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="poweruser.guru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="poweruser.guru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="poweruser.guru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="poweruser.guru/"])
+google.*##.rc:has(a[href*="profikoder.com/"])
+google.*##.nrgt:has(a[href*="profikoder.com/"])
+google.*##.xpd.uUPGi:has(a[href*="profikoder.com/"])
+duckduckgo.com##.result[data-domain$="profikoder.com"]
+duckduckgo.com##.web-result:has(a[href*="profikoder.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="profikoder.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="profikoder.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="profikoder.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="profikoder.com/"])
+google.*##.rc:has(a[href*="progaide.com/"])
+google.*##.nrgt:has(a[href*="progaide.com/"])
+google.*##.xpd.uUPGi:has(a[href*="progaide.com/"])
+duckduckgo.com##.result[data-domain$="progaide.com"]
+duckduckgo.com##.web-result:has(a[href*="progaide.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progaide.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progaide.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progaide.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="progaide.com/"])
+google.*##.rc:has(a[href*="progexact.com/"])
+google.*##.nrgt:has(a[href*="progexact.com/"])
+google.*##.xpd.uUPGi:has(a[href*="progexact.com/"])
+duckduckgo.com##.result[data-domain$="progexact.com"]
+duckduckgo.com##.web-result:has(a[href*="progexact.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progexact.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progexact.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progexact.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="progexact.com/"])
+google.*##.rc:has(a[href*="progi.pro/"])
+google.*##.nrgt:has(a[href*="progi.pro/"])
+google.*##.xpd.uUPGi:has(a[href*="progi.pro/"])
+duckduckgo.com##.result[data-domain$="progi.pro"]
+duckduckgo.com##.web-result:has(a[href*="progi.pro/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progi.pro/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progi.pro/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="progi.pro/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="progi.pro/"])
+google.*##.rc:has(a[href*="programmerz.ru/"])
+google.*##.nrgt:has(a[href*="programmerz.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="programmerz.ru/"])
+duckduckgo.com##.result[data-domain$="programmerz.ru"]
+duckduckgo.com##.web-result:has(a[href*="programmerz.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="programmerz.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="programmerz.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="programmerz.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="programmerz.ru/"])
+google.*##.rc:has(a[href*="programqa.com/"])
+google.*##.nrgt:has(a[href*="programqa.com/"])
+google.*##.xpd.uUPGi:has(a[href*="programqa.com/"])
+duckduckgo.com##.result[data-domain$="programqa.com"]
+duckduckgo.com##.web-result:has(a[href*="programqa.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="programqa.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="programqa.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="programqa.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="programqa.com/"])
+google.*##.rc:has(a[href*="proubuntu.ru/"])
+google.*##.nrgt:has(a[href*="proubuntu.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="proubuntu.ru/"])
+duckduckgo.com##.result[data-domain$="proubuntu.ru"]
+duckduckgo.com##.web-result:has(a[href*="proubuntu.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="proubuntu.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="proubuntu.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="proubuntu.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="proubuntu.ru/"])
+google.*##.rc:has(a[href*="pytannie.com/"])
+google.*##.nrgt:has(a[href*="pytannie.com/"])
+google.*##.xpd.uUPGi:has(a[href*="pytannie.com/"])
+duckduckgo.com##.result[data-domain$="pytannie.com"]
+duckduckgo.com##.web-result:has(a[href*="pytannie.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="pytannie.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="pytannie.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="pytannie.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="pytannie.com/"])
+google.*##.rc:has(a[href*="qacode.ru/"])
+google.*##.nrgt:has(a[href*="qacode.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="qacode.ru/"])
+duckduckgo.com##.result[data-domain$="qacode.ru"]
+duckduckgo.com##.web-result:has(a[href*="qacode.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qacode.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qacode.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qacode.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qacode.ru/"])
+google.*##.rc:has(a[href*="qaes.website/"])
+google.*##.nrgt:has(a[href*="qaes.website/"])
+google.*##.xpd.uUPGi:has(a[href*="qaes.website/"])
+duckduckgo.com##.result[data-domain$="qaes.website"]
+duckduckgo.com##.web-result:has(a[href*="qaes.website/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qaes.website/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qaes.website/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qaes.website/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qaes.website/"])
+google.*##.rc:has(a[href*="qa-help.ru/"])
+google.*##.nrgt:has(a[href*="qa-help.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="qa-help.ru/"])
+duckduckgo.com##.result[data-domain$="qa-help.ru"]
+duckduckgo.com##.web-result:has(a[href*="qa-help.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qa-help.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qa-help.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qa-help.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qa-help.ru/"])
+google.*##.rc:has(a[href*="qarchive.ru/"])
+google.*##.nrgt:has(a[href*="qarchive.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="qarchive.ru/"])
+duckduckgo.com##.result[data-domain$="qarchive.ru"]
+duckduckgo.com##.web-result:has(a[href*="qarchive.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qarchive.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qarchive.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qarchive.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qarchive.ru/"])
+google.*##.rc:has(a[href*="qaru.site/"])
+google.*##.nrgt:has(a[href*="qaru.site/"])
+google.*##.xpd.uUPGi:has(a[href*="qaru.site/"])
+duckduckgo.com##.result[data-domain$="qaru.site"]
+duckduckgo.com##.web-result:has(a[href*="qaru.site/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qaru.site/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qaru.site/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qaru.site/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qaru.site/"])
+google.*##.rc:has(a[href*="qarus.ru/"])
+google.*##.nrgt:has(a[href*="qarus.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="qarus.ru/"])
+duckduckgo.com##.result[data-domain$="qarus.ru"]
+duckduckgo.com##.web-result:has(a[href*="qarus.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qarus.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qarus.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qarus.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qarus.ru/"])
+google.*##.rc:has(a[href*="qastack.cn/"])
+google.*##.nrgt:has(a[href*="qastack.cn/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.cn/"])
+duckduckgo.com##.result[data-domain$="qastack.cn"]
+duckduckgo.com##.web-result:has(a[href*="qastack.cn/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.cn/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.cn/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.cn/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.cn/"])
+google.*##.rc:has(a[href*="qastack.co.in/"])
+google.*##.nrgt:has(a[href*="qastack.co.in/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.co.in/"])
+duckduckgo.com##.result[data-domain$="qastack.co.in"]
+duckduckgo.com##.web-result:has(a[href*="qastack.co.in/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.co.in/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.co.in/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.co.in/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.co.in/"])
+google.*##.rc:has(a[href*="qastack.com.br/"])
+google.*##.nrgt:has(a[href*="qastack.com.br/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.com.br/"])
+duckduckgo.com##.result[data-domain$="qastack.com.br"]
+duckduckgo.com##.web-result:has(a[href*="qastack.com.br/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.br/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.br/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.br/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.com.br/"])
+google.*##.rc:has(a[href*="qastack.com.de/"])
+google.*##.nrgt:has(a[href*="qastack.com.de/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.com.de/"])
+duckduckgo.com##.result[data-domain$="qastack.com.de"]
+duckduckgo.com##.web-result:has(a[href*="qastack.com.de/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.de/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.de/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.de/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.com.de/"])
+google.*##.rc:has(a[href*="qastack.com.ua/"])
+google.*##.nrgt:has(a[href*="qastack.com.ua/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.com.ua/"])
+duckduckgo.com##.result[data-domain$="qastack.com.ua"]
+duckduckgo.com##.web-result:has(a[href*="qastack.com.ua/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.ua/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.ua/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.com.ua/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.com.ua/"])
+google.*##.rc:has(a[href*="qastack.fr/"])
+google.*##.nrgt:has(a[href*="qastack.fr/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.fr/"])
+duckduckgo.com##.result[data-domain$="qastack.fr"]
+duckduckgo.com##.web-result:has(a[href*="qastack.fr/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.fr/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.fr/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.fr/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.fr/"])
+google.*##.rc:has(a[href*="qastack.id/"])
+google.*##.nrgt:has(a[href*="qastack.id/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.id/"])
+duckduckgo.com##.result[data-domain$="qastack.id"]
+duckduckgo.com##.web-result:has(a[href*="qastack.id/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.id/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.id/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.id/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.id/"])
+google.*##.rc:has(a[href*="qastack.info.tr/"])
+google.*##.nrgt:has(a[href*="qastack.info.tr/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.info.tr/"])
+duckduckgo.com##.result[data-domain$="qastack.info.tr"]
+duckduckgo.com##.web-result:has(a[href*="qastack.info.tr/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.info.tr/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.info.tr/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.info.tr/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.info.tr/"])
+google.*##.rc:has(a[href*="qastack.in.th/"])
+google.*##.nrgt:has(a[href*="qastack.in.th/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.in.th/"])
+duckduckgo.com##.result[data-domain$="qastack.in.th"]
+duckduckgo.com##.web-result:has(a[href*="qastack.in.th/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.in.th/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.in.th/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.in.th/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.in.th/"])
+google.*##.rc:has(a[href*="qastack.it/"])
+google.*##.nrgt:has(a[href*="qastack.it/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.it/"])
+duckduckgo.com##.result[data-domain$="qastack.it"]
+duckduckgo.com##.web-result:has(a[href*="qastack.it/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.it/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.it/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.it/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.it/"])
+google.*##.rc:has(a[href*="qastack.jp/"])
+google.*##.nrgt:has(a[href*="qastack.jp/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.jp/"])
+duckduckgo.com##.result[data-domain$="qastack.jp"]
+duckduckgo.com##.web-result:has(a[href*="qastack.jp/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.jp/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.jp/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.jp/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.jp/"])
+google.*##.rc:has(a[href*="qastack.kr/"])
+google.*##.nrgt:has(a[href*="qastack.kr/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.kr/"])
+duckduckgo.com##.result[data-domain$="qastack.kr"]
+duckduckgo.com##.web-result:has(a[href*="qastack.kr/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.kr/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.kr/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.kr/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.kr/"])
+google.*##.rc:has(a[href*="qastack.lk/"])
+google.*##.nrgt:has(a[href*="qastack.lk/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.lk/"])
+duckduckgo.com##.result[data-domain$="qastack.lk"]
+duckduckgo.com##.web-result:has(a[href*="qastack.lk/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.lk/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.lk/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.lk/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.lk/"])
+google.*##.rc:has(a[href*="qastack.mx/"])
+google.*##.nrgt:has(a[href*="qastack.mx/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.mx/"])
+duckduckgo.com##.result[data-domain$="qastack.mx"]
+duckduckgo.com##.web-result:has(a[href*="qastack.mx/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.mx/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.mx/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.mx/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.mx/"])
+google.*##.rc:has(a[href*="qastack.net.bd/"])
+google.*##.nrgt:has(a[href*="qastack.net.bd/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.net.bd/"])
+duckduckgo.com##.result[data-domain$="qastack.net.bd"]
+duckduckgo.com##.web-result:has(a[href*="qastack.net.bd/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.net.bd/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.net.bd/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.net.bd/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.net.bd/"])
+google.*##.rc:has(a[href*="qa-stack.pl/"])
+google.*##.nrgt:has(a[href*="qa-stack.pl/"])
+google.*##.xpd.uUPGi:has(a[href*="qa-stack.pl/"])
+duckduckgo.com##.result[data-domain$="qa-stack.pl"]
+duckduckgo.com##.web-result:has(a[href*="qa-stack.pl/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qa-stack.pl/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qa-stack.pl/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qa-stack.pl/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qa-stack.pl/"])
+google.*##.rc:has(a[href*="qastack.ru/"])
+google.*##.nrgt:has(a[href*="qastack.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.ru/"])
+duckduckgo.com##.result[data-domain$="qastack.ru"]
+duckduckgo.com##.web-result:has(a[href*="qastack.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.ru/"])
+google.*##.rc:has(a[href*="qastack.vn/"])
+google.*##.nrgt:has(a[href*="qastack.vn/"])
+google.*##.xpd.uUPGi:has(a[href*="qastack.vn/"])
+duckduckgo.com##.result[data-domain$="qastack.vn"]
+duckduckgo.com##.web-result:has(a[href*="qastack.vn/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.vn/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.vn/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qastack.vn/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qastack.vn/"])
+google.*##.rc:has(a[href*="qna.one/"])
+google.*##.nrgt:has(a[href*="qna.one/"])
+google.*##.xpd.uUPGi:has(a[href*="qna.one/"])
+duckduckgo.com##.result[data-domain$="qna.one"]
+duckduckgo.com##.web-result:has(a[href*="qna.one/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qna.one/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qna.one/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qna.one/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qna.one/"])
+google.*##.rc:has(a[href*="quabr.com/"])
+google.*##.nrgt:has(a[href*="quabr.com/"])
+google.*##.xpd.uUPGi:has(a[href*="quabr.com/"])
+duckduckgo.com##.result[data-domain$="quabr.com"]
+duckduckgo.com##.web-result:has(a[href*="quabr.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quabr.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quabr.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quabr.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="quabr.com/"])
+google.*##.rc:has(a[href*="questions.pliz.biz/"])
+google.*##.nrgt:has(a[href*="questions.pliz.biz/"])
+google.*##.xpd.uUPGi:has(a[href*="questions.pliz.biz/"])
+duckduckgo.com##.result[data-domain$="questions.pliz.biz"]
+duckduckgo.com##.web-result:has(a[href*="questions.pliz.biz/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="questions.pliz.biz/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="questions.pliz.biz/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="questions.pliz.biz/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="questions.pliz.biz/"])
+google.*##.rc:has(a[href*="quick-geek.github.io/"])
+google.*##.nrgt:has(a[href*="quick-geek.github.io/"])
+google.*##.xpd.uUPGi:has(a[href*="quick-geek.github.io/"])
+duckduckgo.com##.result[data-domain$="quick-geek.github.io"]
+duckduckgo.com##.web-result:has(a[href*="quick-geek.github.io/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quick-geek.github.io/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quick-geek.github.io/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="quick-geek.github.io/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="quick-geek.github.io/"])
+google.*##.rc:has(a[href*="qwe.wiki/"])
+google.*##.nrgt:has(a[href*="qwe.wiki/"])
+google.*##.xpd.uUPGi:has(a[href*="qwe.wiki/"])
+duckduckgo.com##.result[data-domain$="qwe.wiki"]
+duckduckgo.com##.web-result:has(a[href*="qwe.wiki/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qwe.wiki/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qwe.wiki/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="qwe.wiki/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="qwe.wiki/"])
+google.*##.rc:has(a[href*="refaq.ru/"])
+google.*##.nrgt:has(a[href*="refaq.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="refaq.ru/"])
+duckduckgo.com##.result[data-domain$="refaq.ru"]
+duckduckgo.com##.web-result:has(a[href*="refaq.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="refaq.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="refaq.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="refaq.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="refaq.ru/"])
+google.*##.rc:has(a[href*="rstopup.com/"])
+google.*##.nrgt:has(a[href*="rstopup.com/"])
+google.*##.xpd.uUPGi:has(a[href*="rstopup.com/"])
+duckduckgo.com##.result[data-domain$="rstopup.com"]
+duckduckgo.com##.web-result:has(a[href*="rstopup.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="rstopup.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="rstopup.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="rstopup.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="rstopup.com/"])
+google.*##.rc:has(a[href*="ruphp.com/"])
+google.*##.nrgt:has(a[href*="ruphp.com/"])
+google.*##.xpd.uUPGi:has(a[href*="ruphp.com/"])
+duckduckgo.com##.result[data-domain$="ruphp.com"]
+duckduckgo.com##.web-result:has(a[href*="ruphp.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ruphp.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ruphp.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ruphp.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ruphp.com/"])
+google.*##.rc:has(a[href*="rupython.com/"])
+google.*##.nrgt:has(a[href*="rupython.com/"])
+google.*##.xpd.uUPGi:has(a[href*="rupython.com/"])
+duckduckgo.com##.result[data-domain$="rupython.com"]
+duckduckgo.com##.web-result:has(a[href*="rupython.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="rupython.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="rupython.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="rupython.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="rupython.com/"])
+google.*##.rc:has(a[href*="showtop.info/"])
+google.*##.nrgt:has(a[href*="showtop.info/"])
+google.*##.xpd.uUPGi:has(a[href*="showtop.info/"])
+duckduckgo.com##.result[data-domain$="showtop.info"]
+duckduckgo.com##.web-result:has(a[href*="showtop.info/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="showtop.info/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="showtop.info/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="showtop.info/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="showtop.info/"])
+google.*##.rc:has(a[href*="sobrelinux.info/"])
+google.*##.nrgt:has(a[href*="sobrelinux.info/"])
+google.*##.xpd.uUPGi:has(a[href*="sobrelinux.info/"])
+duckduckgo.com##.result[data-domain$="sobrelinux.info"]
+duckduckgo.com##.web-result:has(a[href*="sobrelinux.info/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sobrelinux.info/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sobrelinux.info/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sobrelinux.info/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="sobrelinux.info/"])
+google.*##.rc:has(a[href*="soinside.com/"])
+google.*##.nrgt:has(a[href*="soinside.com/"])
+google.*##.xpd.uUPGi:has(a[href*="soinside.com/"])
+duckduckgo.com##.result[data-domain$="soinside.com"]
+duckduckgo.com##.web-result:has(a[href*="soinside.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="soinside.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="soinside.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="soinside.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="soinside.com/"])
+google.*##.rc:has(a[href*="sozdizimi.com/"])
+google.*##.nrgt:has(a[href*="sozdizimi.com/"])
+google.*##.xpd.uUPGi:has(a[href*="sozdizimi.com/"])
+duckduckgo.com##.result[data-domain$="sozdizimi.com"]
+duckduckgo.com##.web-result:has(a[href*="sozdizimi.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sozdizimi.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sozdizimi.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sozdizimi.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="sozdizimi.com/"])
+google.*##.rc:has(a[href*="sprosi.pro/"])
+google.*##.nrgt:has(a[href*="sprosi.pro/"])
+google.*##.xpd.uUPGi:has(a[href*="sprosi.pro/"])
+duckduckgo.com##.result[data-domain$="sprosi.pro"]
+duckduckgo.com##.web-result:has(a[href*="sprosi.pro/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sprosi.pro/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sprosi.pro/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="sprosi.pro/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="sprosi.pro/"])
+google.*##.rc:has(a[href*="src-bin.com/"])
+google.*##.nrgt:has(a[href*="src-bin.com/"])
+google.*##.xpd.uUPGi:has(a[href*="src-bin.com/"])
+duckduckgo.com##.result[data-domain$="src-bin.com"]
+duckduckgo.com##.web-result:has(a[href*="src-bin.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="src-bin.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="src-bin.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="src-bin.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="src-bin.com/"])
+google.*##.rc:has(a[href*="stackanswers.net/"])
+google.*##.nrgt:has(a[href*="stackanswers.net/"])
+google.*##.xpd.uUPGi:has(a[href*="stackanswers.net/"])
+duckduckgo.com##.result[data-domain$="stackanswers.net"]
+duckduckgo.com##.web-result:has(a[href*="stackanswers.net/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackanswers.net/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackanswers.net/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackanswers.net/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="stackanswers.net/"])
+google.*##.rc:has(a[href*="stackoom.com/"])
+google.*##.nrgt:has(a[href*="stackoom.com/"])
+google.*##.xpd.uUPGi:has(a[href*="stackoom.com/"])
+duckduckgo.com##.result[data-domain$="stackoom.com"]
+duckduckgo.com##.web-result:has(a[href*="stackoom.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackoom.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackoom.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackoom.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="stackoom.com/"])
+google.*##.rc:has(a[href*="stackovernet.com/"])
+google.*##.nrgt:has(a[href*="stackovernet.com/"])
+google.*##.xpd.uUPGi:has(a[href*="stackovernet.com/"])
+duckduckgo.com##.result[data-domain$="stackovernet.com"]
+duckduckgo.com##.web-result:has(a[href*="stackovernet.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackovernet.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackovernet.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackovernet.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="stackovernet.com/"])
+google.*##.rc:has(a[href*="stackoverrun.com/"])
+google.*##.nrgt:has(a[href*="stackoverrun.com/"])
+google.*##.xpd.uUPGi:has(a[href*="stackoverrun.com/"])
+duckduckgo.com##.result[data-domain$="stackoverrun.com"]
+duckduckgo.com##.web-result:has(a[href*="stackoverrun.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackoverrun.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackoverrun.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackoverrun.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="stackoverrun.com/"])
+google.*##.rc:has(a[href*="stackru.com/"])
+google.*##.nrgt:has(a[href*="stackru.com/"])
+google.*##.xpd.uUPGi:has(a[href*="stackru.com/"])
+duckduckgo.com##.result[data-domain$="stackru.com"]
+duckduckgo.com##.web-result:has(a[href*="stackru.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackru.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackru.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackru.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="stackru.com/"])
+google.*##.rc:has(a[href*="stackz.ru/"])
+google.*##.nrgt:has(a[href*="stackz.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="stackz.ru/"])
+duckduckgo.com##.result[data-domain$="stackz.ru"]
+duckduckgo.com##.web-result:has(a[href*="stackz.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackz.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackz.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="stackz.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="stackz.ru/"])
+google.*##.rc:has(a[href*="switch-case.com/"])
+google.*##.nrgt:has(a[href*="switch-case.com/"])
+google.*##.xpd.uUPGi:has(a[href*="switch-case.com/"])
+duckduckgo.com##.result[data-domain$="switch-case.com"]
+duckduckgo.com##.web-result:has(a[href*="switch-case.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="switch-case.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="switch-case.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="switch-case.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="switch-case.com/"])
+google.*##.rc:has(a[href*="switch-case.ru/"])
+google.*##.nrgt:has(a[href*="switch-case.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="switch-case.ru/"])
+duckduckgo.com##.result[data-domain$="switch-case.ru"]
+duckduckgo.com##.web-result:has(a[href*="switch-case.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="switch-case.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="switch-case.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="switch-case.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="switch-case.ru/"])
+google.*##.rc:has(a[href*="thinbug.com/"])
+google.*##.nrgt:has(a[href*="thinbug.com/"])
+google.*##.xpd.uUPGi:has(a[href*="thinbug.com/"])
+duckduckgo.com##.result[data-domain$="thinbug.com"]
+duckduckgo.com##.web-result:has(a[href*="thinbug.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="thinbug.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="thinbug.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="thinbug.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="thinbug.com/"])
+google.*##.rc:has(a[href*="ubuntugeeks.com/"])
+google.*##.nrgt:has(a[href*="ubuntugeeks.com/"])
+google.*##.xpd.uUPGi:has(a[href*="ubuntugeeks.com/"])
+duckduckgo.com##.result[data-domain$="ubuntugeeks.com"]
+duckduckgo.com##.web-result:has(a[href*="ubuntugeeks.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ubuntugeeks.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ubuntugeeks.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ubuntugeeks.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ubuntugeeks.com/"])
+google.*##.rc:has(a[href*="ubuntuplace.info/"])
+google.*##.nrgt:has(a[href*="ubuntuplace.info/"])
+google.*##.xpd.uUPGi:has(a[href*="ubuntuplace.info/"])
+duckduckgo.com##.result[data-domain$="ubuntuplace.info"]
+duckduckgo.com##.web-result:has(a[href*="ubuntuplace.info/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ubuntuplace.info/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ubuntuplace.info/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ubuntuplace.info/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ubuntuplace.info/"])
+google.*##.rc:has(a[href*="ubuntuweb.info/"])
+google.*##.nrgt:has(a[href*="ubuntuweb.info/"])
+google.*##.xpd.uUPGi:has(a[href*="ubuntuweb.info/"])
+duckduckgo.com##.result[data-domain$="ubuntuweb.info"]
+duckduckgo.com##.web-result:has(a[href*="ubuntuweb.info/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ubuntuweb.info/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ubuntuweb.info/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="ubuntuweb.info/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="ubuntuweb.info/"])
+google.*##.rc:has(a[href*="usersuper.ru/"])
+google.*##.nrgt:has(a[href*="usersuper.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="usersuper.ru/"])
+duckduckgo.com##.result[data-domain$="usersuper.ru"]
+duckduckgo.com##.web-result:has(a[href*="usersuper.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="usersuper.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="usersuper.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="usersuper.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="usersuper.ru/"])
+google.*##.rc:has(a[href*="uwenku.com/"])
+google.*##.nrgt:has(a[href*="uwenku.com/"])
+google.*##.xpd.uUPGi:has(a[href*="uwenku.com/"])
+duckduckgo.com##.result[data-domain$="uwenku.com"]
+duckduckgo.com##.web-result:has(a[href*="uwenku.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="uwenku.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="uwenku.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="uwenku.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="uwenku.com/"])
+google.*##.rc:has(a[href*="vike.io/"])
+google.*##.nrgt:has(a[href*="vike.io/"])
+google.*##.xpd.uUPGi:has(a[href*="vike.io/"])
+duckduckgo.com##.result[data-domain$="vike.io"]
+duckduckgo.com##.web-result:has(a[href*="vike.io/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="vike.io/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="vike.io/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="vike.io/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="vike.io/"])
+google.*##.rc:has(a[href*="voidcc.com/"])
+google.*##.nrgt:has(a[href*="voidcc.com/"])
+google.*##.xpd.uUPGi:has(a[href*="voidcc.com/"])
+duckduckgo.com##.result[data-domain$="voidcc.com"]
+duckduckgo.com##.web-result:has(a[href*="voidcc.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="voidcc.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="voidcc.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="voidcc.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="voidcc.com/"])
+google.*##.rc:has(a[href*="vpros.ru/"])
+google.*##.nrgt:has(a[href*="vpros.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="vpros.ru/"])
+duckduckgo.com##.result[data-domain$="vpros.ru"]
+duckduckgo.com##.web-result:has(a[href*="vpros.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="vpros.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="vpros.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="vpros.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="vpros.ru/"])
+google.*##.rc:has(a[href*="v-resheno.ru/"])
+google.*##.nrgt:has(a[href*="v-resheno.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="v-resheno.ru/"])
+duckduckgo.com##.result[data-domain$="v-resheno.ru"]
+duckduckgo.com##.web-result:has(a[href*="v-resheno.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="v-resheno.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="v-resheno.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="v-resheno.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="v-resheno.ru/"])
+google.*##.rc:has(a[href*="web-answers.ru/"])
+google.*##.nrgt:has(a[href*="web-answers.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="web-answers.ru/"])
+duckduckgo.com##.result[data-domain$="web-answers.ru"]
+duckduckgo.com##.web-result:has(a[href*="web-answers.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="web-answers.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="web-answers.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="web-answers.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="web-answers.ru/"])
+google.*##.rc:has(a[href*="while-do.com/"])
+google.*##.nrgt:has(a[href*="while-do.com/"])
+google.*##.xpd.uUPGi:has(a[href*="while-do.com/"])
+duckduckgo.com##.result[data-domain$="while-do.com"]
+duckduckgo.com##.web-result:has(a[href*="while-do.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="while-do.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="while-do.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="while-do.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="while-do.com/"])
+google.*##.rc:has(a[href*="wikiroot.ru/"])
+google.*##.nrgt:has(a[href*="wikiroot.ru/"])
+google.*##.xpd.uUPGi:has(a[href*="wikiroot.ru/"])
+duckduckgo.com##.result[data-domain$="wikiroot.ru"]
+duckduckgo.com##.web-result:has(a[href*="wikiroot.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="wikiroot.ru/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="wikiroot.ru/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="wikiroot.ru/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="wikiroot.ru/"])
+google.*##.rc:has(a[href*="xbuba.com/"])
+google.*##.nrgt:has(a[href*="xbuba.com/"])
+google.*##.xpd.uUPGi:has(a[href*="xbuba.com/"])
+duckduckgo.com##.result[data-domain$="xbuba.com"]
+duckduckgo.com##.web-result:has(a[href*="xbuba.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="xbuba.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="xbuba.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="xbuba.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="xbuba.com/"])
+google.*##.rc:has(a[href*="xszz.org/"])
+google.*##.nrgt:has(a[href*="xszz.org/"])
+google.*##.xpd.uUPGi:has(a[href*="xszz.org/"])
+duckduckgo.com##.result[data-domain$="xszz.org"]
+duckduckgo.com##.web-result:has(a[href*="xszz.org/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="xszz.org/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="xszz.org/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="xszz.org/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="xszz.org/"])
+google.*##.rc:has(a[href*="zapytay.com/"])
+google.*##.nrgt:has(a[href*="zapytay.com/"])
+google.*##.xpd.uUPGi:has(a[href*="zapytay.com/"])
+duckduckgo.com##.result[data-domain$="zapytay.com"]
+duckduckgo.com##.web-result:has(a[href*="zapytay.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="zapytay.com/"])
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="zapytay.com/"]) + tr
+duckduckgo.com##form[action="/lite/"] tbody tr:has(td a[class="result-link"][href*="zapytay.com/"]) + tr + tr
+startpage.com##.w-gl__result:has(.w-gl__result-url-container a[href*="zapytay.com/"])
